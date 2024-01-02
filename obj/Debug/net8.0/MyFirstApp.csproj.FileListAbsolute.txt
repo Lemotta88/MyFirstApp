@@ -12,3 +12,4 @@
 /Users/imminentlykris/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
 /Users/imminentlykris/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
 /Users/imminentlykris/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
+/Users/imminentlykris/MyFirstApp/obj/Debug/net8.0/MyFirstApp.sourcelink.json
